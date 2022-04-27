@@ -1,0 +1,16 @@
+{
+  "name": "rpgmakerplugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "erri120",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^28.0.2"
+  }
+}
